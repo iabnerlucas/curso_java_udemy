@@ -1,7 +1,6 @@
-package curso_udemy_2025;
+package exercicios;
 
 public class casting {
-
 	public static void main(String []args ) {
 		
 		double b, B, h, area;
@@ -30,4 +29,5 @@ public class casting {
 		
 		System.out.println(y);
 		}
+
 }
